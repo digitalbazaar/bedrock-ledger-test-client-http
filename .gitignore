@@ -1,0 +1,9 @@
+*.sw[nop]
+*~
+.project
+.settings
+TAGS
+coverage
+node_modules
+npm-debug.log
+reports
