@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-test-client-http",
-  "version": "0.0.1-0",
+  "version": "1.0.0",
   "description": "Bedrock Ledger Test HTTP Client.",
   "main": "lib",
   "repository": {
