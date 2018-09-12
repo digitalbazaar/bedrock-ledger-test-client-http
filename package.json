@@ -14,7 +14,7 @@
   "peerDependencies": {
     "bedrock": "^1.12.1",
     "bedrock-ledger-consensus-continuity-storage": "^1.0.0",
-    "bedrock-ledger-node": "github:digitalbazaar/bedrock-ledger-node",
+    "bedrock-ledger-node": "^1.0.0",
     "bedrock-redis": "^3.2.0"
   }
 }
